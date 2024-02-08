@@ -1,1 +1,1 @@
-#some Error Pages Templates
+Some Error Pages Templates
